@@ -103,4 +103,4 @@ def lambda_handler(event, context):
             if not success:
                 print('Failed to index document: ',info)
     else:
-        print("File %s is a digest. Skipping",key_name)
+        print("File is a digest. Skipping ",key_name)
