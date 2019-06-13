@@ -1,6 +1,6 @@
 # CloudTrail_To_Elasticsearch
 
-Lmabda function to receive S3 notifications for PUT object to index CloudTrail logs on an Elasticsearch Service cluster.
+Lambda function to receive S3 notifications for PUT object to index CloudTrail logs on an Elasticsearch Service cluster.
 
 
 ## Index formatting
